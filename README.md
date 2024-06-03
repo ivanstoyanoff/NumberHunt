@@ -1,5 +1,5 @@
 # NumberHunt
-<img src="https://github.com/ivanstoyanoff/NumberHunt/blob/master/NumberHunt.jpg" alt="NumberHunt" width="200" height="150">
+<img src="https://github.com/ivanstoyanoff/NumberHunt/blob/master/NumberHunt.jpg" alt="NumberHunt" width="400" height="300">
  NumberHunt is a classic guessing game with a modern twist! In this game, you will face off against our cunning computer opponent, whose task is to hide a number between 1 and 100. Your mission is to find it, using only your intuition and logical thinking. 
 
  NumberHunt" Game Description
